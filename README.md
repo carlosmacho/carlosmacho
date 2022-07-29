@@ -11,7 +11,7 @@
 </a>
 <br />
 <br />
-<img src="[https://www.codewars.com/users/Achhoubi%20Alpha/badges/large](https://www.codewars.com/users/machof1/badges/large)" alt="Machof1 Alpha Codewars Badge">
+<img src="https://www.codewars.com/users/machof1/badges/large" alt="Machof1 Alpha Codewars Badge">
 <br />
 <br />
 
