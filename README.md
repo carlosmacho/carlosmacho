@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/carlos-macho-599860152/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="[https://fb.com/adam pithen wala](https://www.facebook.com/carlos.macho3)" target="blank"><img align="center"
+   <a href="https://www.facebook.com/carlos.macho3" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Carlos Macho" height="30" width="40" /></a>
   <a href="https://instagram.com/machof1" target="blank"><img align="center"
