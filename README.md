@@ -18,7 +18,8 @@
 I'm a Full Stack Developer with love for designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
-I'm currently based in **[Póvoa de Varzim, Portugal.]([https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378](https://www.google.com/maps/place/P%C3%B3voa+de+Varzim/@41.4212611,-8.7600662,12z/data=!3m1!4b1!4m5!3m4!1s0xd24459034ba069f:0xa6d699fc5c70d8db!8m2!3d41.3803685!4d-8.7609294))**
+I'm currently based in **[Póvoa de Varzim, Portugal.](https://www.google.com/maps/place/P%C3%B3voa+de+Varzim/@41.4212611,-8.7600662,12z/data=!3m1!4b1!4m5!3m4!1s0xd24459034ba069f:0xa6d699fc5c70d8db!8m2!3d41.3803685!4d-8.7609294)**
+
 
 <br />
 I love learning new techs and using new tools. I also love drinking Coffee while coding!
@@ -30,10 +31,10 @@ Ask me anything **[here](https://github.com/carlosmacho/carlosmacho/issues/new)*
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoachhoubi&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Carlos Macho Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmacho&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Carlos Macho Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Carlos Macho Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmacho&layout=compact&theme=dark&bg_color=0A0A0A" alt="Carlos Macho Top Languages"/>
 <br />
 <br />
 <br />
