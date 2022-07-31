@@ -68,7 +68,13 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a>
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="sass" width="40"
+      height="40" /> </a>
+      <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="sass" width="40"
+      height="40" /> </a></p>
 
 <br>
 
