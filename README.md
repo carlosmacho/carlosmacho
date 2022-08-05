@@ -72,6 +72,9 @@
       <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40"
       height="40" /> </a>
+      <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angularjs" width="40"
+      height="40" /> </a>
       <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40"
       height="40" /> </a></p>
