@@ -1,97 +1,39 @@
-<h1 align="center">Hi 👋, I'm Carlos Macho</h1>
-<h3 align="center">Computer Science Student at IPVC, Viana do Castelo🌟.</h3>
-
-<br>
-
-  
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning Full Stack Development.
-
-- 📫 How to reach me **carlosmachopvz@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-macho-599860152/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-   <a href="https://www.facebook.com/carlos.macho3" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Carlos Macho" height="30" width="40" /></a>
-  <a href="https://instagram.com/machof1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="machof1" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /><a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40"
-      height="40" /> </a>
-      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40"
-      height="40" /> </a>
-      <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angularjs" width="40"
-      height="40" /> </a>
-      <a href="https://firebase.google.com/?hl=pt" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40"
-      height="40" /> </a></p>
-
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosmacho&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="carlosmacho" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmacho&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="carlosmacho" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmacho&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="carlosmacho" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h2> Hey there! I'm souvik. 👋</h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
+- 🌐 &nbsp; Android | flutter | J2EE
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+
+<br>
+
+<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=carlosmacho&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmacho&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="carlosmacho's Github Stats">
+
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmacho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/carlosmacho/github-readme-stats)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
