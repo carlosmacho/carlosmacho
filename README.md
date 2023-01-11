@@ -4,20 +4,18 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Studying Computer Science.
+- 💼 &nbsp; Full Stack developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter | J2EE
+- 💻 &nbsp; Python | C# | Java | C | HTML | CSS | JavaScript | PHP 
+- 🌐 &nbsp; Ionic | Docker | React | Angular
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 🔧 &nbsp; IntelliJ | PyCharm | Visual Studio code | Git
 
 <br>
 
