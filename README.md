@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C# | Java | C | HTML | CSS | JavaScript | PHP
-- 🌐 &nbsp; Ionic | Docker | React | Angular
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 💻 &nbsp; Python | Kotlin | Java | HTML | CSS | JavaScript | PHP
+- 🌐 &nbsp; Ionic | Docker | React | Angular | Bootstrap
+- 🛢 &nbsp; MySQL | Oracle | Firebase
 - 🔧 &nbsp; IntelliJ | PyCharm | Visual Studio Code | Git
 
 <br>
