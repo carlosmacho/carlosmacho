@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Kotlin | Java | HTML | CSS | JavaScript | PHP
-- 🌐 &nbsp; Ionic | Docker | React | Angular | Bootstrap
-- 🛢 &nbsp; MySQL | Oracle | Firebase
-- 🔧 &nbsp; IntelliJ | PyCharm | Visual Studio Code | Git
+- 💻 &nbsp; Java | Kotlin | Python | HTML | CSS | JavaScript | PHP
+- 🌐 &nbsp; Spring | Docker | Ionic | React | Redis | Bootstrap
+- 🛢 &nbsp; MySQL | PostgreSQL | Oracle 
+- 🔧 &nbsp; IntelliJ | PyCharm | Android Studio | Visual Studio Code | Git
 
 <br>
 
