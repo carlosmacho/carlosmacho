@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Kotlin | Python | HTML | CSS | JavaScript | PHP
+- 💻 &nbsp; Java | Scala | Kotlin | Python | HTML | CSS | JavaScript | PHP
 - 🌐 &nbsp; Spring | Docker | Ionic | React | Redis | Bootstrap
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle 
 - 🔧 &nbsp; IntelliJ | PyCharm | Android Studio | Visual Studio Code | Git
