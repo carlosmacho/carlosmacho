@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Backend Developer.
-- 💼 &nbsp; Full Stack developer.
+- 🎓 &nbsp; Computer Engineering Degree.
+- 💼 &nbsp; Backend developer.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
