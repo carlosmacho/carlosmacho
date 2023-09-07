@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Computer Science Student.
+- 🎓 &nbsp; Backend Developer.
 - 💼 &nbsp; Full Stack developer.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
